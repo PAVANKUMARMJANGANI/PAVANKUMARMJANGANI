@@ -1,6 +1,7 @@
 Hi 👋, I'm Pavan Kumar M Jangani 
 
-Student|Passionate about Data Science & Frontend | Learning SQL | Python • JS • SQL • HTML/CSS<br><br>🌱 I’m currently learning SQL<br><br>👯 I’m looking to collaborate on Data Science projects<br><br>📫 How to reach me pavanjangani@gmail.com<br>
+Student|Passionate about Data Science & Frontend | Learning SQL | Python • JS • SQL • HTML/CSS<br><br>
+I am currently working on the project "AI Enabled Adaptive Questioning System for Crime Investigtion Support"<br>🌱 I’m currently learning SQL<br><br>👯 I’m looking to collaborate on Data Science projects<br><br>📫 How to reach me pavanjangani@gmail.com<br>
 
 
 ## 🌐 Socials:
